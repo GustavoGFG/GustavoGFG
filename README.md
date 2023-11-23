@@ -25,8 +25,8 @@ This is my favorite environment, where ideas and innovation become code.
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades]([https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode](https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,nodejs,express,react,python,selenium,git,figma,vscode)
-)](https://skillicons.dev)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,nodejs,express,react,python,selenium,git,figma,vscode
+)](https://skillicons.dev)
 
   </div>
   
