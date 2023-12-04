@@ -17,7 +17,7 @@
 <h2 align="left">
 This is my favorite environment, where ideas and innovation become code.
 </h2>
-<p>I'm a developer fascinated by technology! Since childhood, when I had my first contact with computing, I have explored and discovered more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. My dream is to travel the world, sharing my knowledge and gaining new experiences. I believe that access to knowledge is fundamental for everyone, and I also have the desire to live in Suíça or Canada for a period of time.</p>
+<p>I thrive on creating fantastic user experiences using HTML, CSS, and JavaScript. I'm currently seeking an opportunity to apply my Front End skills while diving deeper into React and databases to support our team's objectives. While I'm passionate about technology, I also find immense pleasure in the culinary arts and cherish spending quality time with my family for a well-rounded life.</p>
 
 <p>You can contact me by email: <a href="mailto:gd.gustavodev@gmail.com">gd.gustavodev@gmail.com</a>.</p> 
 <br>
